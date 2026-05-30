@@ -55,9 +55,7 @@ const engineer = {
 ---
 
 <!-- DIVIDER -->
-<div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-</div>
+
 
 ## 🔧 Stack & Tools
 
@@ -89,56 +87,39 @@ const engineer = {
 
 ---
 
-<!-- STATS ROW -->
-<div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-</div>
 
-## 📊 GitHub Analytics
+
+## 📊 GitHub at a Glance
 
 <div align="center">
 
-<a href="https://github.com/workwithhashirr">
-  <img height="175" src="https://github-readme-stats.vercel.app/api?username=workwithhashirr&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=E8A923&icon_color=FF6B35&text_color=94A3B8&border_radius=12&ring_color=E8A923"/>
-</a>
-<a href="https://github.com/workwithhashirr">
-  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=workwithhashirr&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=E8A923&text_color=94A3B8&langs_count=8&border_radius=12"/>
-</a>
+```
+╔══════════════════════════════════════════════════════════════════════╗
+║  github.com/workwithhashirr  ·  PROFILE SNAPSHOT                   ║
+╠══════════════════════════════════════════════════════════════════════╣
+║                                                                      ║
+║   📦  Repositories    ·  3 public · actively building               ║
+║   📌  Pinned          ·  BuildFlow-AI (TypeScript · Next.js)        ║
+║   🌍  Location        ·  Kerala, India                              ║
+║   🧱  Primary Stack   ·  TypeScript · Next.js · AI APIs             ║
+║   🚀  Status          ·  Open to collaboration & opportunities      ║
+║                                                                      ║
+╚══════════════════════════════════════════════════════════════════════╝
+```
 
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=workwithhashirr&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=E8A923&fire=FF6B35&currStreakLabel=E8A923&sideLabels=94A3B8&dates=64748B&currStreakNum=E8A923&sideNums=94A3B8&stroke=0D1117&border_radius=12)](https://git.io/streak-stats)
-
-</div>
-
----
-
-<!-- ACTIVITY GRAPH -->
-## 📈 Contribution Blueprint
-
-<div align="center">
-
-[![Hashir's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=workwithhashirr&theme=tokyo-night&bg_color=0d1117&color=E8A923&line=FF6B35&point=E8A923&area=true&hide_border=true&area_color=E8A923)](https://github.com/workwithhashirr)
+| Metric | Status |
+|:---|:---:|
+| 🏗️ Active Projects | `BuildFlow AI` · `Zhaviour` |
+| 💻 Primary Language | TypeScript |
+| 📅 On GitHub Since | 2025 |
+| 🤝 Open to Collab | ✅ Yes |
+| 📍 Based In | Kerala 🇮🇳 |
 
 </div>
 
 ---
 
-## 🏆 Trophies
 
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=workwithhashirr&theme=darkhub&no-frame=true&no-bg=true&row=1&column=7&margin-w=6)](https://github.com/workwithhashirr)
-
-</div>
-
----
-
-<div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-</div>
 
 ## 🏗️ Site Diary — Work Experience
 

@@ -1,16 +1,58 @@
-## Hi there 👋
+### 👨‍💻 About Me
 
-<!--
-**workwithhashirr/workwithhashirr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```python
+class Developer:
+    def __init__(self):
+        self.name = "Mohammed Hashir"
+        self.location = "Kerala, India"
+        self.degree = "B.Tech Civil Engineering (2029)"
+        self.stack = ["Next.js", "Python", "AutoCAD", "Procore"]
+        self.currently_learning = ["Advanced AI Agents for Construction", "Australian Project Management Standards"]
+        self.fun_fact = "I build AI apps while managing supply chain logistics!"
+        self.motto = lambda: "Integrating digital workflows to build sustainable infrastructure."
 
-Here are some ideas to get you started:
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tech Stack
+
+**Languages**
+  
+
+**Frameworks & Libraries**
+ 
+
+**Engineering & Tools**
+  
+
+---
+
+### 💼 Work & Leadership
+
+### 🚀 Featured Projects
+
+| Project | Stack | Highlights |
+| --- | --- | --- |
+| [BuildFlow AI](https://www.google.com/search?q=https://github.com/your-username/buildflow-ai) | Next.js, AI | Industry-standard workflow simulation with AI dashboard. |
+| [Zhaviour](https://www.google.com/search?q=https://github.com/your-username/zhaviour) | JS, Web | Localized career & branding manager for Kerala students. |
+
+### 🏆 Achievements
+
+| Emoji | Achievement | Details |
+| --- | --- | --- |
+| 🏗️ | Procore Certification | Certified in Quality & Safety and Resource Planning. |
+| 🎓 | Industry Simulation | Completed Siemens Mobility (PM) & LJA (Civil) simulations. |
+| 📊 | Technical Proficiency | Advanced certifications from Tata Group and PMI. |
+
+### 🎓 Education
+
+| Degree | Institution | Year | Score |
+| --- | --- | --- | --- |
+| B.Tech Civil Engineering | RCET | 2025-2029 | - |
+
+### 📚 Currently Learning
+
+```text
+🧱 Construction Technology → AI Agents for Automated Site Management
+📈 Project Management → Australian Construction Industry Standards
+
+```

@@ -1,160 +1,196 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Mohammed%20Hashir&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Civil%20Engineer%20%7C%20Construction%20Tech%20Innovator%20%7C%20Building%20the%20Future%20with%20AI%20%2B%20Infrastructure&descAlignY=62&descSize=16" width="100%"/>
+<div align="center">
+
+<!-- BLUEPRINT HERO BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,4&height=4&section=header" width="100%"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=200&section=header&text=MOHAMMED%20HASHIR&fontSize=48&fontColor=E8A923&animation=fadeIn&fontAlignY=38&desc=Construction%20Project%20Manager%20%E2%80%A2%20AI-Driven%20Infrastructure%20%E2%80%A2%20Builder%20of%20Systems&descAlignY=60&descSize=14&descColor=94A3B8" width="100%"/>
+
+</div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Civil+Engineering+Student+%7C+RCET+%2725;Construction+Project+Management+%F0%9F%8F%97%EF%B8%8F;Building+AI-Powered+Infrastructure+Tools;Procore+Certified+Project+Manager+%F0%9F%93%8B)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3500&pause=1200&color=E8A923&center=true&vCenter=true&width=780&lines=%F0%9F%9A%A7+BTech+Civil+Engineering+%7C+RCET+2025%E2%80%932029;%F0%9F%8F%97%EF%B8%8F+Procore+Certified+Project+Manager;%F0%9F%A4%96+Building+AI-Powered+Construction+Tools;%F0%9F%93%90+Founder+%40+Zhaviour+%7C+Creator+%40+BuildFlow+AI;%F0%9F%8C%8D+Kerala%2C+India+%E2%86%92+Global+Infrastructure)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-<img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+<!-- ABOUT ME - BLUEPRINT CODE BLOCK STYLE -->
 
-```python
-class MohammedHashir:
-    def __init__(self):
-        self.name          = "Mohammed Hashir"
-        self.location      = "Kerala, India 🇮🇳"
-        self.degree        = "BTech Civil Engineering @ RCET (2025–2029)"
-        self.role          = "Aspiring Construction Project Manager"
+<img align="right" width="340" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" style="border-radius: 8px; margin-left: 20px;"/>
 
-        self.stack = [
-            "AutoCAD", "Procore", "Next.js",
-            "AI-Assisted Dev", "UI/UX Prototyping",
-        ]
+```javascript
+// ════════════════════════════════════════════
+//   MOHAMMED HASHIR  |  workwithhashirr
+//   Construction × Technology × Leadership
+// ════════════════════════════════════════════
 
-        self.currently_learning = [
-            "BIM (Building Information Modelling)",
-            "Structural Analysis & Design",
-            "Generative AI for Construction Analytics",
-            "Advanced Project Risk Management",
-        ]
+const engineer = {
+  name:       "Mohammed Hashir",
+  role:       "Construction Project Manager",
+  location:   "Kerala 🇮🇳 → Global",
+  degree:     "BTech Civil Engineering @ RCET",
+  batch:      "2025 – 2029",
 
-        self.fun_fact = (
-            "I bridge blueprints and bytecode — "
-            "designing structures by day, shipping "
-            "software by night 🏗️💻"
-        )
+  // What I build
+  projects: [
+    "Zhaviour    → Career platform for engineers",
+    "BuildFlow AI → AI construction management",
+  ],
 
-    def motto(self):
-        return "Build. Automate. Deliver."
+  // What I wield
+  tools: {
+    construction: ["Procore", "AutoCAD", "MS Project"],
+    tech:         ["Next.js", "TypeScript", "AI APIs"],
+    methodology:  ["PMBOK", "Agile", "Lean Construction"],
+  },
+
+  // What drives me
+  motto: () => "Structure everything. Automate the rest.",
+};
 ```
 
 <br clear="right"/>
 
 ---
 
-## 🛠️ Tech & Tools
+<!-- DIVIDER -->
+<div align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+</div>
 
-**Project Management & Construction**
-
-![Procore](https://img.shields.io/badge/Procore-F26522?style=flat-square&logo=procore&logoColor=white)
-![AutoCAD](https://img.shields.io/badge/AutoCAD-EE3124?style=flat-square&logo=autodesk&logoColor=white)
-![PMI](https://img.shields.io/badge/PMI-003087?style=flat-square&logo=pmi&logoColor=white)
-![Microsoft Project](https://img.shields.io/badge/MS%20Project-217346?style=flat-square&logo=microsoft&logoColor=white)
-
-**Languages & Frameworks**
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-
-**Cloud & DevOps**
-
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-
-**AI & Data Tools**
-
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)
-
----
-
-## 📊 GitHub Stats
+## 🔧 Stack & Tools
 
 <div align="center">
 
-<a href="https://github.com/mohammedhashir">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=mohammedhashir&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
+**── Construction & Project Management ──**
+
+[![Procore](https://img.shields.io/badge/Procore%20Certified-FF6B35?style=for-the-badge&logo=procore&logoColor=white)](https://procore.com)
+[![AutoCAD](https://img.shields.io/badge/AutoCAD-EE3124?style=for-the-badge&logo=autodesk&logoColor=white)](https://autodesk.com)
+[![PMI](https://img.shields.io/badge/PMI%20%7C%20PMBOK-003087?style=for-the-badge&logo=pmi&logoColor=white)](https://pmi.org)
+[![MS Project](https://img.shields.io/badge/MS%20Project-217346?style=for-the-badge&logo=microsoft&logoColor=white)](https://microsoft.com)
+
+**── Development & Tech ──**
+
+[![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://nextjs.org)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://typescriptlang.org)
+[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
+[![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)](https://supabase.com)
+[![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com)
+
+**── Design & AI ──**
+
+[![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://figma.com)
+[![OpenAI](https://img.shields.io/badge/OpenAI%20API-412991?style=for-the-badge&logo=openai&logoColor=white)](https://openai.com)
+[![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://notion.so)
+
+</div>
+
+---
+
+<!-- STATS ROW -->
+<div align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+</div>
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<a href="https://github.com/workwithhashirr">
+  <img height="175" src="https://github-readme-stats.vercel.app/api?username=workwithhashirr&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=E8A923&icon_color=FF6B35&text_color=94A3B8&border_radius=12&ring_color=E8A923"/>
 </a>
-<a href="https://github.com/mohammedhashir">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammedhashir&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
+<a href="https://github.com/workwithhashirr">
+  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=workwithhashirr&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=E8A923&text_color=94A3B8&langs_count=8&border_radius=12"/>
 </a>
 
 </div>
 
----
-
-## 🔥 Streak Stats
-
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=mohammedhashir&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=workwithhashirr&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=E8A923&fire=FF6B35&currStreakLabel=E8A923&sideLabels=94A3B8&dates=64748B&currStreakNum=E8A923&sideNums=94A3B8&stroke=0D1117&border_radius=12)](https://git.io/streak-stats)
 
 </div>
 
 ---
 
-## 📈 Activity Graph
+<!-- ACTIVITY GRAPH -->
+## 📈 Contribution Blueprint
 
 <div align="center">
 
-[![Hashir's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mohammedhashir&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true)](https://github.com/mohammedhashir)
+[![Hashir's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=workwithhashirr&theme=tokyo-night&bg_color=0d1117&color=E8A923&line=FF6B35&point=E8A923&area=true&hide_border=true&area_color=E8A923)](https://github.com/workwithhashirr)
 
 </div>
 
 ---
 
-## 🏆 Trophy Wall
+## 🏆 Trophies
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=mohammedhashir&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4)](https://github.com/mohammedhashir)
+[![trophy](https://github-profile-trophy.vercel.app/?username=workwithhashirr&theme=darkhub&no-frame=true&no-bg=true&row=1&column=7&margin-w=6)](https://github.com/workwithhashirr)
 
 </div>
 
 ---
 
-## 💼 Work Experience
+<div align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+</div>
+
+## 🏗️ Site Diary — Work Experience
 
 <details>
-<summary><b>🏗️ Siemens Mobility — Project Manager (Industry Simulation) · 2024 · Remote</b></summary>
+<summary><b>📐 Siemens Mobility — Project Manager Simulation &nbsp;|&nbsp; 2024 &nbsp;|&nbsp; Remote</b></summary>
+<br>
 
-> `Project Planning` `Risk Assessment` `Stakeholder Management` `Mobility Infrastructure`
+> **Tags:** `Project Lifecycle` `Risk Mitigation` `Stakeholder Management` `Mobility Infrastructure`
 
-- Completed an industry simulation as Project Manager, overseeing a full project lifecycle for a mobility infrastructure initiative.
-- Applied resource planning and schedule optimisation strategies across multi-disciplinary teams.
-- Identified risk factors and developed mitigation frameworks aligned with Siemens' quality standards.
-- Produced structured project documentation and progress reports for senior stakeholders.
+- Completed end-to-end PM simulation for a global mobility infrastructure leader, managing full project lifecycle from scoping to handover.
+- Developed risk registers and mitigation frameworks aligned with Siemens' engineering quality standards.
+- Applied multi-disciplinary resource planning and schedule compression strategies to meet delivery milestones.
+- Produced structured progress reports and stakeholder briefings for senior decision-makers.
 
 </details>
 
 <details>
-<summary><b>🛣️ LJA Engineering — Civil Engineering Simulation · 2024 · Remote</b></summary>
+<summary><b>🛣️ LJA Engineering — Civil Engineering Simulation &nbsp;|&nbsp; 2024 &nbsp;|&nbsp; Remote</b></summary>
+<br>
 
-> `Civil Engineering` `Design Review` `AutoCAD` `Infrastructure Planning`
+> **Tags:** `Infrastructure Design` `AutoCAD` `Site Planning` `Drainage Systems`
 
-- Participated in a virtual civil engineering simulation modelling real-world project delivery challenges.
-- Reviewed design drawings and proposed technical improvements to site layouts and drainage systems.
-- Collaborated with simulated cross-functional teams to meet project milestones within budget constraints.
-- Gained hands-on exposure to large-scale infrastructure project workflows used by top US engineering firms.
+- Simulated real-world civil engineering project delivery challenges in collaboration with a top US infrastructure firm.
+- Reviewed technical drawings and proposed improvements to site layout, grading, and stormwater drainage.
+- Coordinated with simulated cross-functional teams — structural, geotechnical, and environmental — to hit milestones on time and on budget.
+- Gained direct exposure to large-scale AEC project workflows that mirror industry practice.
 
 </details>
 
 <details>
-<summary><b>🚧 Zhaviour — Founder & Product Lead · Jan 2026 – Present · Kerala, India</b></summary>
+<summary><b>🚀 Zhaviour — Founder & Product Lead &nbsp;|&nbsp; Jan 2026 – Present &nbsp;|&nbsp; Kerala, India</b></summary>
+<br>
 
-> `Next.js` `AI Integration` `Product Design` `Career Tech` `Kerala EdTech`
+> **Tags:** `Next.js` `AI Integration` `Product Strategy` `EdTech` `Kerala Engineering`
 
-- Building a localised career and personal branding platform specifically designed for engineering students in Kerala.
-- Architecting the full-stack product using Next.js with AI-assisted content generation and profile analytics.
-- Conducting user research with 20+ engineering students to validate core feature requirements.
-- Developing automated branding tools to help students create LinkedIn-ready profiles and portfolios.
+- Founded a localised career and personal branding platform purpose-built for engineering students across Kerala.
+- Architecting a full-stack Next.js product with AI-powered content generation, profile scoring, and branding automation.
+- Conducted 20+ user research interviews to validate core features and roadmap priorities.
+- Building automated tools that produce LinkedIn-ready profiles, portfolios, and career roadmaps for students.
+
+</details>
+
+<details>
+<summary><b>⚙️ BuildFlow AI — Creator & Lead Developer &nbsp;|&nbsp; 2025 – Present &nbsp;|&nbsp; Remote</b></summary>
+<br>
+
+> **Tags:** `Next.js` `TypeScript` `AI APIs` `Figma` `Construction Tech`
+
+- Designed and built an AI-powered construction management dashboard that simulates industry-standard platforms like Procore.
+- Integrated real-time AI analysis for project scheduling, resource allocation, and risk flagging.
+- Produced a fully responsive, production-ready UI/UX — from Figma wireframes to deployed product on Vercel.
+- Serves as a flagship portfolio project demonstrating the fusion of construction domain expertise with modern software engineering.
 
 </details>
 
@@ -164,28 +200,28 @@ class MohammedHashir:
 
 <div align="center">
 
-| Project | Stack | Highlights |
-|---|---|---|
-| [**Zhaviour**](https://github.com/mohammedhashir) | Next.js · AI · TypeScript | Localised career branding platform for Kerala engineering students · Active development since Jan 2026 · 20+ early user interviews completed |
-| [**BuildFlow AI**](https://github.com/mohammedhashir) | Next.js · AI APIs · Figma | AI-powered construction management dashboard · Simulates industry-standard Procore-style workflows · Built as a portfolio centrepiece |
+| 🔨 Project | ⚙️ Stack | 📋 What It Does |
+|:---:|:---:|:---|
+| [**BuildFlow AI** 🔗](https://github.com/workwithhashirr/Buildflow-AI) | `Next.js` `TypeScript` `AI APIs` `Figma` | AI-powered construction management dashboard · Simulates Procore-style project oversight with scheduling, risk flags & resource tracking |
+| [**Zhaviour** 🔗](https://github.com/workwithhashirr) | `Next.js` `AI` `Supabase` | Localised career platform for Kerala engineering students · AI branding engine · 20+ validated users in early research |
 
 </div>
 
 ---
 
-## 🏅 Achievements
+## 🎖️ Certifications & Achievements
 
 <div align="center">
 
-| 🎖️ | Achievement | Details |
-|---|---|---|
-| 📋 | **Procore Certified — Quality & Safety** | Project Manager track · Industry-recognised construction software certification |
-| 📦 | **Procore Certified — Resource Planning** | Project Manager at GC track · Advanced resource & schedule management |
-| 🏢 | **Siemens Mobility Simulation** | Completed full PM simulation for a global mobility infrastructure leader |
-| 🛣️ | **LJA Civil Engineering Simulation** | Completed real-world civil engineering workflow simulation with a top US firm |
-| 🎓 | **PMI Coursework** | Advanced project management learning via Project Management Institute |
-| 🏗️ | **Tata Group Certification** | Industry-relevant certification from one of India's most prestigious conglomerates |
-| 📐 | **CIVILERA Advanced Courses** | Specialised civil engineering skill development via CIVILERA platform |
+| Badge | Certification | Issuing Body | Focus Area |
+|:---:|:---|:---:|:---|
+| 📋 | **Procore Certified — Project Manager** | Procore Technologies | Quality & Safety Management |
+| 📦 | **Procore Certified — Project Manager at GC** | Procore Technologies | Resource Planning & Scheduling |
+| 🏢 | **Project Manager Simulation** | Siemens Mobility | Mobility Infrastructure PM |
+| 🛣️ | **Civil Engineering Simulation** | LJA Engineering | AEC Project Delivery |
+| 🎓 | **Project Management Professional Track** | PMI | PMBOK Framework |
+| 🏭 | **Industry Certification** | Tata Group | Engineering & Operations |
+| 📐 | **Advanced Civil Engineering Coursework** | CIVILERA | Technical Skills Development |
 
 </div>
 
@@ -195,35 +231,55 @@ class MohammedHashir:
 
 <div align="center">
 
-| Degree | Institution | Year | Focus |
-|---|---|---|---|
+| 🏫 Degree | 🏛️ Institution | 📅 Duration | 🧭 Specialisation |
+|:---:|:---:|:---:|:---|
 | **BTech — Civil Engineering** | Royal College of Engineering and Technology (RCET) | 2025 – 2029 | Structural Engineering · Construction Management · Digital Infrastructure |
 
 </div>
 
 ---
 
-## 🧱 Currently Learning
+## 🧱 Currently On The Drawing Board
 
 ```
-🏗️  Building Information Modelling (BIM)   →  Revit, Navisworks, 4D Scheduling
-📐  Structural Analysis & Design            →  Load Calculations, SAP2000 Basics
-🤖  Generative AI for Construction          →  Data Analytics, AI Dashboards, Automation
-📋  Advanced Risk Management                →  PMBOK, Risk Registers, Contingency Planning
-🌐  Full-Stack for AEC Industry             →  Next.js, Supabase, REST APIs, Dashboards
+╔══════════════════════════════════════════════════════════════════╗
+║   ACTIVE LEARNING LOG — Mohammed Hashir                         ║
+╠══════════════════════════════════════════════════════════════════╣
+║                                                                  ║
+║  🏗️  BIM (Building Information Modelling)                        ║
+║         → Revit · Navisworks · 4D Project Scheduling             ║
+║                                                                  ║
+║  📐  Structural Analysis & Design                                 ║
+║         → Load Calculations · SAP2000 Fundamentals               ║
+║                                                                  ║
+║  🤖  Generative AI for AEC                                        ║
+║         → Construction Analytics · AI Dashboards · Automation    ║
+║                                                                  ║
+║  📋  Advanced Risk Management                                     ║
+║         → PMBOK 7th Ed · Risk Registers · Contingency Planning   ║
+║                                                                  ║
+║  🌐  Full-Stack for Construction Tech                             ║
+║         → Next.js · Supabase · REST APIs · SaaS Architecture     ║
+║                                                                  ║
+╚══════════════════════════════════════════════════════════════════╝
 ```
 
 ---
 
+## 🤝 Let's Connect
+
 <div align="center">
 
-[![Profile Views](https://komarev.com/ghpvc/?username=mohammedhashir&label=Profile%20Views&color=70a5fd&style=flat-square)](https://github.com/mohammedhashir)
-[![GitHub followers](https://img.shields.io/github/followers/mohammedhashir?label=Followers&style=flat-square&color=bf91f3)](https://github.com/mohammedhashir)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohammed%20Hashir-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/workwithhashirr)
+[![GitHub](https://img.shields.io/badge/GitHub-workwithhashirr-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/workwithhashirr)
+[![Profile Views](https://komarev.com/ghpvc/?username=workwithhashirr&label=Profile+Views&color=E8A923&style=for-the-badge)](https://github.com/workwithhashirr)
 
-*"Build. Automate. Deliver."*
+<br/>
 
-**Let's connect →** [LinkedIn](https://github.com/workwithhashirr) · [GitHub](https://github.com/mohammedhashir)
+> *"Structure everything. Automate the rest."*
+>
+> — Mohammed Hashir · Civil Engineer & Construction Tech Builder
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:16213e,100:1a1a2e&height=140&section=footer&animation=fadeIn" width="100%"/>
